@@ -1,0 +1,37 @@
+Effective Date: 12.12.2024
+1. Introduction
+This privacy policy describes how we handle and protect user data for the script/tool created for automating messaging and analyzing Instagram accounts. We are committed to ensuring that the data processed by our tool complies with Meta’s data privacy requirements.
+
+2. Purpose of the Script
+The script is intended to assist with the following functions:
+	•	Sending automated direct messages on Instagram to users based on predefined criteria.
+	•	Analyzing publicly available account data, such as profile information, follower statistics, and engagement metrics.
+
+3. Data Collection
+Our script processes only the following types of data:
+	•	Publicly Available Data: Information available on Instagram profiles that the user has set to public, such as username, bio, posts, follower count, and engagement details.
+	•	Direct Message Content: Messages that are predefined and sent via the script.
+	•	Authentication Data: The access token required to connect with the Instagram API, provided securely by the user.
+
+We do not collect, store, or process sensitive personal data. All data is accessed temporarily during script execution and is not saved to any external database or server.
+
+4. Data Usage
+The data collected is used solely for the purpose of enabling the functionality of the script as described in Section 2. We do not share or sell any data to third parties.
+
+5. User Responsibility
+The user is responsible for ensuring compliance with Instagram’s Terms of Service when using this script. This includes:
+	•	Only using the script for legitimate purposes.
+	•	Avoiding spamming or unsolicited messaging.
+	•	Respecting privacy settings and user preferences.
+
+6. Security Measures
+We employ the following measures to ensure data security:
+	•	Access tokens are stored securely and not shared or used for unauthorized purposes.
+	•	All communications with the Instagram API are encrypted using HTTPS.
+	•	No data is stored permanently.
+
+7. User Rights
+As a user, you retain full control over your data. You may revoke the script’s access to your Instagram account at any time by invalidating the access token via Instagram settings.
+
+8. Contact Us
+If you have any questions or concerns about this privacy policy, please contact us at: nikitakusnir50@gmail.com
